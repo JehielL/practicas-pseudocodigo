@@ -19,7 +19,7 @@ Algoritmo algoritmo1
 	Escribir precios[1]
 	
 	sumatorio <- 0
-	para i<-1 hasta precios_longitud Con Paso 1 Hacer
+	para i<-1 hasta enviarMensaje Con Paso 1 Hacer
 		sumatorio = sumatorio + precios[i]
 	FinPara
 	
